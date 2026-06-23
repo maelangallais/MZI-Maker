@@ -1,5 +1,5 @@
 
-if (!localStorage.getItem('MZISettings')) localStorage.setItem('MZISettings', '30;7;40;0;0.2;0;220;70;0;120;30;0.6;false;true;false;false;true');
+if (!localStorage.getItem('MZISettings')) localStorage.setItem('MZISettings', '30;7;40;0;0.2;0;220;70;0;120;10;0.6;false;true;false;false;true');
 
 const filamentThickness = 1.75; //Thickness of the raw TPU's filament in milimeters
 const moveSpeed = 9000;
